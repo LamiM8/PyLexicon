@@ -1,2 +1,2 @@
 version=1.1
-url=https://raw.githubusercontent.com/USERNAME/REPO/main/PyLexiconSetup.exe
+https://raw.githubusercontent.com/LamiM8/PyLexicon/main/PyLexiconSetup.exe
