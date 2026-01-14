@@ -1,5 +1,6 @@
-version=1.4
+version=1.5
 https://raw.githubusercontent.com/LamiM8/PyLexicon/main/PyLexiconSetup.exe
+
 
 
 
